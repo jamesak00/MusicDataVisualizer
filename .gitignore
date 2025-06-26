@@ -1,0 +1,23 @@
+# PyCharm project files
+.idea/
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# MyPy type checker cache
+.mypy_cache/
+
+# pytest cache
+.pytest_cache/
