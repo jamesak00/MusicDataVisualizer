@@ -9,3 +9,9 @@ Input the directory to the "tracking.sql" database in the "db_path" variable.
 Set the date period that you want to observe in the database, either a specific date range or a specific month.
 
 Adjust other parameters (top_plays, top_cumu, play_mult, etc.) or uncomment the "plt.show()" methods to view custom charts that best suit your visualization needs.  
+
+## Bugs
+
+- The plot legends are cut off in the graphs
+
+- Some characters may not be displayed in the plots or legend
